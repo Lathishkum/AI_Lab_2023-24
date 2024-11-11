@@ -81,7 +81,7 @@ fund_names = [name.strip() for name in user_input.split(',')]
 compare_funds(fund_names)
 
 ### Output:
-
+file:///C:/Users/scbl1/Pictures/Screenshots/Screenshot%20(23).png
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
